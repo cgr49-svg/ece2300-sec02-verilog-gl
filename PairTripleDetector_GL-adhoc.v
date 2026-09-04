@@ -42,7 +42,7 @@ module Top();
 
     // Set input values for all input ports. Then wait 10 units of time.
     // Then we display all of the input and output values. We do this
-    // four times with four different sets of input values.
+    // four times with four different sets of input values. c;ara
 
     in0 = 0;
     in1 = 0;
